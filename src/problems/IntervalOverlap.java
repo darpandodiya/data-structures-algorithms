@@ -4,6 +4,14 @@ package problems;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ * Given two intevals, check whether they overlap or not.
+ *
+ * (0, 3), (5,10) - They overlap - return true
+ *
+ * (1, 5), (7,10) - They do not overlap - return false
+ */
+
 class Interval {
     int start;
     int end;
@@ -13,6 +21,7 @@ class Interval {
         this.end = end;
     }
 }
+
 public class IntervalOverlap {
 
     static void sortIntervals(Interval[] intervals) {
