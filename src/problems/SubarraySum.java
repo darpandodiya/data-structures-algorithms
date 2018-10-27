@@ -8,7 +8,7 @@ package problems;
  */
 public class SubarraySum {
 
-    //Try ever subarray and compare their sum. This will be n^2 solution.
+    //Try ever subarray and compare their sum. This will be n^2 Main.
     private static int bruteForce(int[] input) {
         int maxSoFar = Integer.MIN_VALUE;
 
