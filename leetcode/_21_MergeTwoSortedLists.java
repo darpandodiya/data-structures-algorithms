@@ -6,7 +6,7 @@ class ListNode {
     ListNode(int x) { val = x; }
 }
 
-public class MergeTwoSortedLists_21 {
+public class _21_MergeTwoSortedLists {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
 
@@ -52,7 +52,7 @@ public class MergeTwoSortedLists_21 {
 
         //printList(l2);
 
-        ListNode newList = new MergeTwoSortedLists_21().mergeTwoLists(l1, l2);
+        ListNode newList = new _21_MergeTwoSortedLists().mergeTwoLists(l1, l2);
         printList(newList);
 
     }

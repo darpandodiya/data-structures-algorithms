@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-public class BackspaceStringCompare_844 {
+public class _844_BackspaceStringCompare {
 
     //Suggested by the solution
     public boolean backspaceCompare(String S, String T) {
@@ -117,6 +117,6 @@ public class BackspaceStringCompare_844 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new BackspaceStringCompare_844().backspaceCompareBackwards("a##c#", "b#"));
+        System.out.println(new _844_BackspaceStringCompare().backspaceCompareBackwards("a##c#", "b#"));
     }
 }

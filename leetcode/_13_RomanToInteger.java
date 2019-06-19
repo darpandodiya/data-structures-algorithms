@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.HashMap;
 
-public class RomanToInteger_13 {
+public class _13_RomanToInteger {
     public int romanToInt(String s) {
         HashMap<Character, Integer> symMap = new HashMap<>();
 
@@ -39,6 +39,6 @@ public class RomanToInteger_13 {
     }
 
     public static void main(String[] args) {
-        System.out.println(new RomanToInteger_13().romanToInt("MCMXCIV"));
+        System.out.println(new _13_RomanToInteger().romanToInt("MCMXCIV"));
     }
 }
