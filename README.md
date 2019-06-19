@@ -9,5 +9,5 @@ Blanket repository to store everything I do related to Data Structures and Algor
 
 [Codechef](https://github.com/darpandodiya/data-structures-algorithms/tree/master/codechef/decemberchallenge)
 
-[Other Problems](https://github.com/darpandodiya/data-structures-algorithms/tree/master/problems)
+[Other Interesting Problems](https://github.com/darpandodiya/data-structures-algorithms/tree/master/problems)
 
